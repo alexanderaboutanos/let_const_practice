@@ -1,0 +1,9 @@
+ES2015 Global Constants
+- const PI = 3.14
+- const PI = 42 // ERROR!!
+
+Quiz
+- var is function scoped, whereas let is not. also, 'let' will not allow you to redeclare, where as var will permit you.
+- var can be reassigned, const cannot. Var can be redeclared, const cannot. Const is block scoped, var is function scoped.
+- const cannot be reassigned, whereas let can be reassigned.
+- hoisting is when the 'var' variables are all processed before the rest of the code.
